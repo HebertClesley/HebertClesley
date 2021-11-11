@@ -7,7 +7,6 @@
 ##
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hebertclesley&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div>
 
